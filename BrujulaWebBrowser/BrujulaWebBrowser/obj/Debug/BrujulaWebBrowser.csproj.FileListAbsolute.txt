@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\bin\Debug\BrujulaWebBrowser.exe.config
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\bin\Debug\BrujulaWebBrowser.exe
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\bin\Debug\BrujulaWebBrowser.pdb
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.Form1.resources
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.Properties.Resources.resources
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.exe
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.pdb
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\bin\Debug\BrujulaWebBrowser.exe.manifest
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\bin\Debug\BrujulaWebBrowser.application
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.exe.manifest
+C:\Users\Martin\source\repos\BrujulaWebBrowser\BrujulaWebBrowser\obj\Debug\BrujulaWebBrowser.application
